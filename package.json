@@ -50,10 +50,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/postgresql-mcp-gallop.git"
+    "url": "https://github.com/gallop/postgresql-mcp-gallop.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/postgresql-mcp-gallop/issues"
+    "url": "https://github.com/gallop/postgresql-mcp-gallop/issues"
   },
-  "homepage": "https://github.com/your-username/postgresql-mcp-gallop#readme"
+  "homepage": "https://github.com/gallop/postgresql-mcp-gallop#readme"
 }
