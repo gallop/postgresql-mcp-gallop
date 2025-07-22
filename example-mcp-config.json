@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "PostgreSQL": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "postgresql-mcp-gallop",
+        "postgresql://username:password@host:port/database"
+      ],
+      "env": {
+      },
+      "description": "PostgreSQL database operations via MCP"
+    }
+  }
+}

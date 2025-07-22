@@ -1,0 +1,36 @@
+# 源代码
+src/
+tsconfig.json
+
+# 开发文件
+.env
+.env.example
+scripts/
+mcp-server.log
+
+# 测试和构建
+*.test.js
+*.test.ts
+jest.config.js
+.nyc_output
+coverage/
+
+# 开发依赖
+.eslintrc.*
+.prettierrc.*
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 其他
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
